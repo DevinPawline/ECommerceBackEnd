@@ -15,11 +15,12 @@ After running using npm start, you must open another terminal and node seeds/ind
 ### License:
 This project is licensed under:
 MIT
-### Contributing:
-No contributions needed
-### Tests:
-In order to test open the console and run the following:
-```npm test```
+### Video of Functionality: 
+
+
+https://user-images.githubusercontent.com/79121046/127572993-73925b58-6201-4fc7-aa96-3aa20b409e47.mp4
+
+
 ### Questions:
 If you have any questions contact me on [GitHub](https://github.com/devinpawline) or contact 
 Devin Pawline at pawlinedevin@gmail.com
